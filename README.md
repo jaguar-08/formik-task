@@ -15,4 +15,4 @@ Delete author.
 View a list of all author.
 view a short biography of author</ol>
 
-Deployed URL : https://magnificent-zabaione-e67630.netlify.app/
+Deployed URL : https://formik-task-topaz.vercel.app/
